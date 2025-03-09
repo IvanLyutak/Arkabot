@@ -93,7 +93,7 @@ WINRATE 📈
 
 🏀 баскетбол - {basketball_winrate}
 
-🔍 теннис - {tennis_winrate}
+🎾 теннис - {tennis_winrate}
 
 🎲 экспресс - {express_winrate}
         """
